@@ -355,6 +355,7 @@
 
 ## 技术
 
+1. Serverless Apps on Cloudflare, by Ashley Peacock, 2026年3月
 1. [Oral History of James Gosling](https://archive.computerhistory.org/resources/access/text/2019/10/102781080-05-01-acc.pdf), 2025年6月
 1. Learning TypeScript，by Josh Goldberg，2022年10月
 1. Programming TypeScript，by Boris Cherny，2022年10月
